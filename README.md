@@ -6,7 +6,7 @@
 ![React + Vite + Tailwind CSS](https://img.shields.io/badge/React%20%2B%20Vite%20%2B%20Tailwind%20CSS-61DAFB?style=flat-square)
 ![Offline-First](https://img.shields.io/badge/Offline--First-4B4B4B?style=flat-square)
 
-**Publication status:** this workspace is ready to run locally. The GitHub repository URL and live-demo URL have not been published yet, so this README deliberately uses placeholders rather than links that do not work.
+**Publication status:** live and public. GitHub repository: [github.com/klee718/Daily1600](https://github.com/klee718/Daily1600) · Live demo: [daily1600.vercel.app](https://daily1600.vercel.app)
 
 ## The problem
 
@@ -76,11 +76,9 @@ The result is an offline-first study experience that remains functional during a
 
 ## Run locally
 
-After publication, clone the repository with the final URL:
-
 ```bash
-git clone [GITHUB_REPO_URL]
-cd daily1600
+git clone https://github.com/klee718/Daily1600
+cd Daily1600
 npm install
 npm run dev
 ```
@@ -119,6 +117,6 @@ api/                              Dormant future server-route designs
 
 ## Submission details
 
-- **GitHub repository:** `[GITHUB_REPO_URL]` (add after publication)
-- **Live demo:** `[LIVE_DEMO_URL]` (add after deployment is verified)
-- **Codex Session ID:** `[FILL IN — see /feedback submission]`
+- **GitHub repository:** [github.com/klee718/Daily1600](https://github.com/klee718/Daily1600)
+- **Live demo:** [daily1600.vercel.app](https://daily1600.vercel.app)
+- **Codex Session ID:** `019f62bf-fd51-7873-9786-12462f4e32e6`
