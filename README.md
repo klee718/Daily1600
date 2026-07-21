@@ -116,7 +116,7 @@ api/                              Dormant future server-route designs
 ```
 
 ## Submission details
-
+- **Youtube Video:** [youtube](https://youtu.be/MBnbT7vDm6I)
 - **GitHub repository:** [github.com/klee718/Daily1600](https://github.com/klee718/Daily1600)
 - **Live demo:** [daily1600.vercel.app](https://daily1600.vercel.app)
 - **Codex Session ID:** `019f62bf-fd51-7873-9786-12462f4e32e6`
